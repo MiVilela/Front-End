@@ -41,15 +41,15 @@ Para alinhar o texto utilizamos
 
 Os elementos de formatação foram projetados para exibir tipos especiais de texto:
 
-```
-<b>- Texto em negrito
-<strong>- Texto importante
-<i>- Texto em itálico
-<em>- Texto enfatizado
-<mark>- Texto marcado
-<small>- Texto menor
-<del>- Texto deletado
-<ins>- Texto inserido
-<sub>- Texto subscrito
-<sup>- Texto sobrescrito
+```html
+<b> - Texto em negrito
+<strong> - Texto importante
+<i> - Texto em itálico
+<em> - Texto enfatizado
+<mark> - Texto marcado
+<small> - Texto menor
+<del> - Texto deletado
+<ins> - Texto inserido
+<sub> - Texto subscrito
+<sup> - Texto sobrescrito
 ```
