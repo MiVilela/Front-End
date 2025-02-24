@@ -66,10 +66,8 @@ Os atributos:
 
 ## Atributos
 
-Agora vamos falar um pouco sobre os atributos HTML, eles fornecem informações adicionar sobre elementos.
-
+Agora vamos falar um pouco sobre os atributos HTML, eles fornecem informações adicionais sobre elementos.
 São sempre especificados na tag inicial. 
-
 Geralmente vem em pares nome/valor como: nome="valor".
 
 **href** - atributo especifica URL;
