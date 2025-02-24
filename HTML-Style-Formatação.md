@@ -12,15 +12,30 @@ Sintaxe:
 
 A propriedade e o valor é CSS
 
-Para mudar a cor de fundo usamos a propriedade ```<h1 style="background-color:red;">```.
+Para mudar a cor de fundo usamos a propriedade 
+```html 
+<h1 style="background-color:red;">
+```
 
-Para mudar a cor do texto usamos a propriedade ```<p style="color:blue;">```.
+Para mudar a cor do texto usamos a propriedade 
+```html
+<p style="color:blue;">
+```
 
-Para alterar a fonte usada, utilizamos a propriedade ```<p style="font-family:roboto;">```.
+Para alterar a fonte usada, utilizamos a propriedade 
+```html
+<p style="font-family:roboto;">
+```
 
-Alterar o tamanho da fonte, utilizamos a propriedade ```<p style="font-size:15px;">```.
+Alterar o tamanho da fonte, utilizamos a propriedade 
+```html
+<p style="font-size:15px;">
+```
 
-Para alinhar o texto utilizamos ```<h1 style="text-align:center;">```.
+Para alinhar o texto utilizamos 
+```html
+<h1 style="text-align:center;">
+```
 
 ## Formatação
 
