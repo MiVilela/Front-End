@@ -63,3 +63,22 @@ Os atributos:
 ````html
 <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
 ````
+
+## Atributos
+
+Agora vamos falar um pouco sobre os atributos HTML, eles fornecem informações adicionar sobre elementos.
+São sempre especificados na tag inicial. 
+Geralmente vem em pares nome/valor como: nome="valor".
+
+**href** - atributo especifica URL;
+**src** - especifica o caminho para a imagem ser exibida;
+Podemos especificar a imagem no src utilizando uma URL Absoluta, seria uma imagem externa que está hospedada em outro site.
+URL relativa, link para uma imagem hospedada dentro do site atual.
+**width** - largura;
+**height** - altura;
+**alt** - especifica um texto alternativo para uma imagem, se a imagem não for exibida este texto que aparece na tela;
+**style** - adicionar estilos a um elemento, cor, fonte, tamanho, etc;
+**lang** - declara o idiota da página Web;
+**title** - define algumas informações extras sobre um elemento. Será exibido como uma dica de ferramenta quando você passar o mouse sobre o elemento.
+
+OBS: Sempre utilizar atributos com letra minúscula.
