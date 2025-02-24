@@ -3,7 +3,6 @@
 HTML é uma linguagem de marcação padrão para criar páginas da WEB. Significa Hyper Text Markup Linguage.
 
 ## 🏗️ Estrutura Básica de um Documento HTML  
-
 ```html
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -17,6 +16,7 @@ HTML é uma linguagem de marcação padrão para criar páginas da WEB. Signific
     <p>Este é um parágrafo em HTML.</p>
 </body>
 </html>
+```
 
 🔹 Principais Tags do HTML
 
